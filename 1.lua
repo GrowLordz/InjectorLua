@@ -1,4 +1,3 @@
-local M = {}
 
 local GameplayStatics=import("GameplayStatics")
 local GameplayData=require("GameLua.GameCore.Data.GameplayData")
@@ -13346,5 +13345,3 @@ end
 function M.OnBeginPlay(self)
 
 end
-
-return M
